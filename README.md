@@ -13,12 +13,13 @@
 <a/>
 <h3>Languages and Tools:</h3>
 <div display="flex">
-<img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579" width="70px" height="70px" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="70px" height="70px"/>  
-<img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="70px" height="70px"/>  
-<img src="https://cdn.shopify.com/s/files/1/0277/3329/5197/files/GraphQL-logo.png?height=628&pad_color=ffffff&v=1663253428&width=1200" width="70px" height="70px"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" width="70px" height="70px"/>  
-<img src="https://cdn.shopify.com/s/files/1/0277/3329/5197/files/GraphQL-logo.png?height=628&pad_color=ffffff&v=1663253428&width=1200" width="70px" height="70px"/>  <img src="https://brandslogos.com/wp-content/uploads/images/angular-logo-vector.svg" width="70px" height="70px"/>  
-  </div>
+<img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="50px" height="50px" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="50px" height="50px"/>  
+<img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="50px" height="50px"/>  
+<img src="https://cdn.shopify.com/s/files/1/0277/3329/5197/files/GraphQL-logo.png?height=628&pad_color=ffffff&v=1663253428&width=1200" width="50px" height="50px"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" width="50px" height="50px"/>  
+<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="50px" height="50px"/> 
+
+ </div>
 
 </body>
 </html>
